@@ -1,0 +1,45 @@
+Plaintext shifting: 
+a b c d . . . 
+. a b c d . . 
+. . a b c d . 
+. . . a b c d 
+
+Plain text is: abcd
+Encrypted text is: a1d0a1d
+Decrypted text is: abcd
+
+Plaintext shifting: 
+6 3 6 f 6 4 6 5 7 2 . . . . . . . . . 
+. 6 3 6 f 6 4 6 5 7 2 . . . . . . . . 
+. . 6 3 6 f 6 4 6 5 7 2 . . . . . . . 
+. . . 6 3 6 f 6 4 6 5 7 2 . . . . . . 
+. . . . 6 3 6 f 6 4 6 5 7 2 . . . . . 
+. . . . . 6 3 6 f 6 4 6 5 7 2 . . . . 
+. . . . . . 6 3 6 f 6 4 6 5 7 2 . . . 
+. . . . . . . 6 3 6 f 6 4 6 5 7 2 . . 
+. . . . . . . . 6 3 6 f 6 4 6 5 7 2 . 
+. . . . . . . . . 6 3 6 f 6 4 6 5 7 2 
+
+Plain text is: 636f646572
+Encrypted text is: 653cae8da8edb426052
+Decrypted text is: 636f646572
+
+Plaintext shifting: 
+f d e a c 4 7 9 6 2 1 6 5 . . . . . . . . . . . . 
+. f d e a c 4 7 9 6 2 1 6 5 . . . . . . . . . . . 
+. . f d e a c 4 7 9 6 2 1 6 5 . . . . . . . . . . 
+. . . f d e a c 4 7 9 6 2 1 6 5 . . . . . . . . . 
+. . . . f d e a c 4 7 9 6 2 1 6 5 . . . . . . . . 
+. . . . . f d e a c 4 7 9 6 2 1 6 5 . . . . . . . 
+. . . . . . f d e a c 4 7 9 6 2 1 6 5 . . . . . . 
+. . . . . . . f d e a c 4 7 9 6 2 1 6 5 . . . . . 
+. . . . . . . . f d e a c 4 7 9 6 2 1 6 5 . . . . 
+. . . . . . . . . f d e a c 4 7 9 6 2 1 6 5 . . . 
+. . . . . . . . . . f d e a c 4 7 9 6 2 1 6 5 . . 
+. . . . . . . . . . . f d e a c 4 7 9 6 2 1 6 5 . 
+. . . . . . . . . . . . f d e a c 4 7 9 6 2 1 6 5 
+
+Plain text is: fdeac47962165
+Encrypted text is: f2c6ae906453694a0c8f60235
+Decrypted text is: fdeac47962165
+
